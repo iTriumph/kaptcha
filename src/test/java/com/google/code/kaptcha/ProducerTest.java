@@ -24,8 +24,6 @@ public class ProducerTest {
 
 		BufferedImage bufferedImage = producer.createImage("ADSC6893");
 		ImageIO.write(bufferedImage, "jpg", new FileOutputStream("/Users/imiracle/Desktop/a.jpg"));
-
-
 	}
 
 }

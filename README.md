@@ -3,7 +3,7 @@
 This repo is the copy of http://code.google.com/p/kaptcha/ and published to maven central
 ```
 <dependency>
-  <groupId>com.github.penggle</groupId>
+  <groupId>com.moonsinfo</groupId>
   <artifactId>kaptcha</artifactId>
   <version>2.3.2</version>
 </dependency>
